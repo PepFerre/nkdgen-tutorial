@@ -1,0 +1,10 @@
+name: "Mywebsite"
+title: "My new website"
+type: inverse
+left:
+  - text: "Thin Film Optics"
+    menu:
+      - text: "NKDGEN"
+        href: ./nkdgen.html
+      - text: "Thin Film Calculation Tutorial"
+        href: ./tutorial.html
